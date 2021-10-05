@@ -1,5 +1,10 @@
-from pymol import cmd
-from pymol.selecting import select
+import os 
+try:
+    from pymol import cmd
+except:
+    os.system("module load pymol")
+
+
 
 def get_unique_residues_numbers():
     """
@@ -22,11 +27,11 @@ def get_unique_residues_numbers():
 
 second_shell_residues = get_unique_residues_numbers()
 
-print (second_shell_residues)
-## load the file and select the chain to change
-cmd.load(filename="../files/6tg9.cif")
-cmd.select(name="ChainA",selection="c. A")
-
-## enable mutagenesis
-cmd.wizard("mutagenesis")
-cmd.do("refresh_wizard")
+print("total residues_second_shells:%i" %( len ( second_shell_residues)))
+count_ala , count_gly = 0 ,0 
+for x,y,z in second_shell_residues:
+    if x == "ALA":
+        count_ala +=1 
+    elif x == "GLY":
+        count_gly += 1 
+print (f"GLY :{count_gly}, ALA:{count_ala}")
