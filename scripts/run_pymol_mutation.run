@@ -1,0 +1,14 @@
+#!/bin/bash -l 
+#SBATCH --nodes=2
+#SBATCH --ntasks=32
+#SBATCH -J pymol
+#SBATCH --ntasks-per-core=1
+#SBATCH --partition=batch
+#SBATCH --time=02:00:00
+#SBATCH --error=pymol_err_%j.err
+#SBATCH --output=pymol_out_%j.out
+conda activate pymol
+#module load mpich/3.3/gnu-6.4.0
+module load greasy
+for m in {1..53}; do echo "python mutation_one_by_one.py ${m}" ; done > my_pymol.txt
+greasy my_pymol.txt 

@@ -1,0 +1,264 @@
+srun -n 33 -O /sw/csi/greasy/2.2.3/el7.9_openmpi4.0.3/bin/greasybin my_pymol.txt
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+ ExecutiveRMSPairs: RMSD =    0.058 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveRMSPairs: RMSD =    0.064 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.029 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.016 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.024 (4 to 4 atoms)
+PyMOL>refresh_wizard
+ ExecutiveRMSPairs: RMSD =    0.027 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.026 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.029 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.033 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.041 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.027 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.052 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.037 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.024 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.045 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.054 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.026 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.037 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.032 (3 to 3 atoms)
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveRMSPairs: RMSD =    0.058 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+PyMOL>refresh_wizard
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveLoad-Detail: Detected mmCIF
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveRMSPairs: RMSD =    0.036 (4 to 4 atoms)
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveRMSPairs: RMSD =    0.042 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.024 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.038 (4 to 4 atoms)
+PyMOL>refresh_wizard
+ ExecutiveRMSPairs: RMSD =    0.047 (4 to 4 atoms)
+ ExecutiveLoad-Detail: Detected mmCIF
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveLoad-Detail: Detected mmCIF
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveLoad-Detail: Detected mmCIF
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveLoad-Detail: Detected mmCIF
+Selected!
+ Mutagenesis: no rotamers found in library.
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.037 (4 to 4 atoms)
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+PyMOL>refresh_wizard
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveRMSPairs: RMSD =    0.021 (4 to 4 atoms)
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+ ExecutiveRMSPairs: RMSD =    0.017 (4 to 4 atoms)
+PyMOL>refresh_wizard
+Selected!
+ Mutagenesis: no rotamers found in library.
+PyMOL>refresh_wizard
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.070 (4 to 4 atoms)
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+PyMOL>refresh_wizard
+Selected!
+ Mutagenesis: no rotamers found in library.
+PyMOL>refresh_wizard
+PyMOL>refresh_wizard
+ ExecutiveRMSPairs: RMSD =    0.040 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.038 (4 to 4 atoms)
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveRMSPairs: RMSD =    0.039 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.021 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.043 (3 to 3 atoms)
+ ExecutiveRMSPairs: RMSD =    0.020 (4 to 4 atoms)
+PyMOL>refresh_wizard
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+ ExecutiveLoad-Detail: Detected mmCIF
+Selected!
+ Mutagenesis: no rotamers found in library.
+PyMOL>refresh_wizard
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+PyMOL>refresh_wizard
+Selected!
+ Mutagenesis: no rotamers found in library.
+PyMOL>refresh_wizard
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.044 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.041 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.030 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.059 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.035 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.009 (3 to 3 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.022 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.042 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.037 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.016 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.032 (4 to 4 atoms)
+Selected!
+ ExecutiveRMSPairs: RMSD =    0.036 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.028 (3 to 3 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.019 (3 to 3 atoms)
+ ExecutiveRMSPairs: RMSD =    0.021 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+ ExecutiveRMSPairs: RMSD =    0.031 (4 to 4 atoms)
+ ExecutiveRMSPairs: RMSD =    0.043 (4 to 4 atoms)
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
+Selected!
+ Mutagenesis: no rotamers found in library.
