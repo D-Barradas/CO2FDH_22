@@ -1,0 +1,500 @@
+protein	hit_def	hit_acc	e-value6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter capsulatus] &gt;pdb|6TG9|A Cryo-EM Structure of NADH reduced form of NAD+-dependent Formate Dehydrogenase from Rhodobacter capsulatus [Rhodobacter capsulatus Y262] &gt;pdb|6TG9|E Cryo-EM Structure of NADH reduced form of NAD+-dependent Formate Dehydrogenase from Rhodobacter capsulatus [Rhodobacter capsulatus Y262] &gt;pdb|6TGA|A Cryo-EM Structure of as isolated form of NAD+-dependent Formate Dehydrogenase from Rhodobacter capsulatus [Rhodobacter capsulatus] &gt;pdb|6TGA|E Cryo-EM Structure of as isolated form of NAD+-dependent Formate Dehydrogenase from Rhodobacter capsulatus [Rhodobacter capsulatus] &gt;gb|ADE86759.1| NAD-dependent formate dehydrogenase, alpha subunit [Rhodobacter capsulatus SB 1003] &gt;gb|ETD00318.1| formate dehydrogenase subunit alpha [Rhodobacter capsulatus DE442] &gt;gb|ETD74658.1| formate dehydrogenase subunit alpha [Rhodobacter capsulatus R121] &gt;gb|ETE52521.1| formate dehydrogenase subunit alpha [Rhodobacter capsulatus Y262] &gt;gb|TQD35928.1| formate dehydrogenase subunit alpha [Rhodobacter capsulatus]	WP_013068732	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter capsulatus] &gt;gb|ETD87414.1| formate dehydrogenase subunit alpha [Rhodobacter capsulatus B6]	WP_023920706	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter capsulatus] &gt;gb|ETD88771.1| formate dehydrogenase subunit alpha [Rhodobacter capsulatus YW2]	WP_023918761	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter capsulatus] &gt;gb|ETD83812.1| formate dehydrogenase subunit alpha [Rhodobacter capsulatus YW1]	WP_023913603	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter capsulatus] &gt;gb|TKD18312.1| formate dehydrogenase subunit alpha [Rhodobacter capsulatus]	WP_136906410	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter capsulatus] &gt;gb|KQB12888.1| formate dehydrogenase [Rhodobacter capsulatus] &gt;gb|KQB13064.1| formate dehydrogenase [Rhodobacter capsulatus] &gt;gb|PZX28512.1| formate dehydrogenase alpha subunit [Rhodobacter capsulatus] &gt;gb|QNR62789.1| formate dehydrogenase subunit alpha [Rhodobacter capsulatus]	WP_055212268	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter capsulatus] &gt;emb|SDF65830.1| formate dehydrogenase alpha subunit [Rhodobacter capsulatus]	WP_074554936	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter viridis] &gt;gb|PYF09674.1| formate dehydrogenase alpha subunit [Rhodobacter viridis]	WP_110805792	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter aestuarii] &gt;gb|PTV95749.1| formate dehydrogenase alpha subunit [Rhodobacter aestuarii] &gt;emb|SIS59583.1| formate dehydrogenase alpha subunit [Rhodobacter aestuarii]	WP_076483921	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. JA431] &gt;emb|SOC17518.1| formate dehydrogenase alpha subunit [Rhodobacter sp. JA431]	WP_097082878	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. TJ_12] &gt;gb|MBZ4021183.1| formate dehydrogenase subunit alpha [Rhodobacter sp. TJ_12]	WP_223632185	0
+6tg9_A	ormate dehydrogenase subunit alpha [Sphingomonadales bacterium]	MBD3786292	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter maris] &gt;emb|SOB94718.1| formate dehydrogenase alpha subunit [Rhodobacter maris]	WP_097068581	0
+6tg9_A	ormate dehydrogenase subunit alpha [Sinirhodobacter sp. B57] &gt;gb|MBW0157961.1| formate dehydrogenase subunit alpha [Sinirhodobacter sp. B57]	WP_218629876	0
+6tg9_A	ormate dehydrogenase subunit alpha [Sinirhodobacter hungdaonensis] &gt;gb|RWR53422.1| formate dehydrogenase subunit alpha [Sinirhodobacter hungdaonensis]	WP_128155684	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paenirhodobacter sp. MME-103]	WP_068766168	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. LPB0142] &gt;gb|AOZ68356.1| formate dehydrogenase subunit alpha [Rhodobacter sp. LPB0142]	WP_071165436	0
+6tg9_A	ormate dehydrogenase subunit alpha [Sinirhodobacter hankyongi] &gt;gb|RLL64705.1| formate dehydrogenase subunit alpha [Sinirhodobacter hankyongi]	WP_121533498	0
+6tg9_A	ormate dehydrogenase subunit alpha [Sinirhodobacter ferrireducens] &gt;gb|RWR51384.1| formate dehydrogenase subunit alpha [Sinirhodobacter ferrireducens]	WP_128147755	0
+6tg9_A	ormate dehydrogenase alpha subunit [Rhodobacter sp. 140A]	RBP90911	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava arenosa] &gt;gb|PCD76063.1| formate dehydrogenase subunit alpha [Thioclava arenosa]	WP_096434050	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava marina]	MBC7146724	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. L04-15] &gt;gb|OOY28938.1| formate dehydrogenase subunit alpha [Thioclava sp. L04-15]	WP_078525170	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp.]	MBD3805045	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	TNF11629	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBN2739374	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava marina] &gt;gb|OOY13228.1| formate dehydrogenase subunit alpha [Thioclava marina]	WP_078573591	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava indica] &gt;gb|KEO53898.1| formate dehydrogenase subunit alpha [Thioclava indica]	WP_038132648	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. DLFJ4-1] &gt;gb|OOY16936.1| formate dehydrogenase subunit alpha [Thioclava sp. DLFJ4-1]	WP_078600623	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [unclassified Thioclava] &gt;gb|OWY03303.1| formate dehydrogenase subunit alpha [Thioclava sp. IC9] &gt;gb|OWY14419.1| formate dehydrogenase subunit alpha [Thioclava sp. F34-6]	WP_088727395	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava pacifica] &gt;gb|KEO50509.1| formate dehydrogenase subunit alpha [Thioclava pacifica DSM 10166]	WP_038080128	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. DLFJ5-1] &gt;gb|OOY19300.1| formate dehydrogenase subunit alpha [Thioclava sp. DLFJ5-1]	WP_078542246	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. F42-5] &gt;gb|OWY09573.1| formate dehydrogenase subunit alpha [Thioclava sp. F42-5]	WP_088722282	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava nitratireducens] &gt;gb|AQS49379.1| formate dehydrogenase subunit alpha [Thioclava nitratireducens]	WP_075773920	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava electrotropha] &gt;gb|QPZ92467.1| formate dehydrogenase subunit alpha [Thioclava electrotropha]	WP_083078344	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. JE_KL1] &gt;gb|MPQ92785.1| formate dehydrogenase subunit alpha [Thioclava sp. JE_KL1]	WP_152843481	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. F28-4] &gt;gb|OOY03781.1| formate dehydrogenase subunit alpha [Thioclava sp. F28-4]	WP_078522480	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. JM3] &gt;gb|OWY16062.1| formate dehydrogenase subunit alpha [Thioclava sp. JM3]	WP_088725424	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. NG1] &gt;gb|PWE51804.1| formate dehydrogenase subunit alpha [Thioclava sp. NG1]	WP_109171605	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sediminum] &gt;gb|OOY24384.1| formate dehydrogenase subunit alpha [Thioclava sediminum]	WP_078604848	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. F1Mire-8] &gt;gb|OWY03610.1| formate dehydrogenase subunit alpha [Thioclava sp. F1Mire-8]	WP_088719514	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp.]	MAQ38252	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. F36-6] &gt;gb|OOY31792.1| formate dehydrogenase subunit alpha [Thioclava sp. F36-6]	WP_078549056	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. F36-7] &gt;gb|OOY09795.1| formate dehydrogenase subunit alpha [Thioclava sp. F36-7]	WP_078569795	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. ES.031] &gt;gb|PFG64740.1| formate dehydrogenase major subunit [Thioclava sp. ES.031]	WP_098412011	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBW6505309	0
+6tg9_A	ormate dehydrogenase subunit alpha [Aquicoccus porphyridii] &gt;gb|KAA0920376.1| formate dehydrogenase subunit alpha [Aquicoccus porphyridii]	WP_149187064	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodovulum sp.]	MAY34364	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium AsT-22]	RAI54832	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter phragmitetus]	WP_122520257	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola algae] &gt;gb|QPM90209.1| Putative formate dehydrogenase [Pseudooceanicola algae]	WP_119839824	0
+6tg9_A	ormate dehydrogenase subunit alpha [Alphaproteobacteria bacterium HGW-Alphaproteobacteria-4]	PKP69128	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. BHET1]	TMV94870	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritimibacter sp. HL-12] &gt;emb|SMH47448.1| formate dehydrogenase alpha subunit [Maritimibacter sp. HL-12]	WP_085526443	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava dalianensis] &gt;gb|KEP69861.1| formate dehydrogenase [Thioclava dalianensis] &gt;emb|SFM88130.1| formate dehydrogenase major subunit [Thioclava dalianensis]	WP_038065742	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter phragmitetus] &gt;gb|ALV28581.1| formate dehydrogenase [Pannonibacter phragmitetus]	WP_058899666	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola nanhaiensis] &gt;gb|MCA0922045.1| formate dehydrogenase subunit alpha [Pseudooceanicola nanhaiensis]	WP_224822268	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter phragmitetus]	WP_094461876	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium]	QPI86226	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter phragmitetus] &gt;gb|MBA4207133.1| formate dehydrogenase subunit alpha [Polymorphum sp.]	WP_123194457	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter indicus] &gt;gb|AJE46261.1| formate dehydrogenase subunit alpha [Celeribacter indicus] &gt;emb|SDW51457.1| formate dehydrogenase alpha subunit [Celeribacter indicus]	WP_043869175	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudoroseicyclus tamaricis] &gt;gb|NDV01902.1| formate dehydrogenase subunit alpha [Pseudoroseicyclus tamaricis]	WP_163894364	0
+6tg9_A	ormate dehydrogenase subunit alpha [Nioella ostreopsis]	WP_127560172	0
+6tg9_A	ormate dehydrogenase subunit alpha [Limimaricola sp.]	MBI1417569	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter phragmitetus] &gt;gb|KND18652.1| formate dehydrogenase [Pannonibacter phragmitetus]	WP_050473157	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thalassobius taeanensis] &gt;emb|SEQ03318.1| formate dehydrogenase alpha subunit [Thalassobius taeanensis]	WP_090269044	0
+6tg9_A	ormate dehydrogenase subunit alpha [Labrenzia sp. PO1] &gt;gb|QFT68359.1| Putative formate dehydrogenase [Labrenzia sp. THAF35]	NKI56933	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseisalinus antarcticus] &gt;emb|SLN34084.1| Putative formate dehydrogenase [Roseisalinus antarcticus]	WP_085878135	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter ovatus] &gt;emb|SNX69465.1| formate dehydrogenase alpha subunit [Cereibacter ovatus]	WP_097029874	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibium aggregatum]	AQQ06031	0
+6tg9_A	ormate dehydrogenase subunit alpha [Neomegalonema perideroedes]	WP_018633489	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola batsensis] &gt;gb|EAQ04972.1| NAD-dependent formate dehydrogenase, alpha subunit [Pseudooceanicola batsensis HTCC2597]	WP_009805589	0
+6tg9_A	ormate dehydrogenase subunit alpha [Oceanicola sp. 22II-s10i] &gt;gb|OWU82972.1| formate dehydrogenase [Oceanicola sp. 22II-s10i]	WP_088626074	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter indicus] &gt;emb|CUA98872.1| formate dehydrogenase alpha subunit [Pannonibacter indicus]	WP_055456490	0
+6tg9_A	ormate dehydrogenase subunit alpha [Labrenzia sp. 5N]	NKX66010	0
+6tg9_A	ormate dehydrogenase subunit alpha [Labrenzia sp. C1B10] &gt;gb|ERS05212.1| formate dehydrogenase subunit alpha [Labrenzia sp. C1B70] &gt;emb|CTQ43067.1| Putative formate dehydrogenase [Roseibium aggregatum]	ERP93963	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter phragmitetus] &gt;emb|SUB01455.1| Putative formate dehydrogenase SA2102 [Pannonibacter phragmitetus]	WP_019964737	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pacificibacter marinus] &gt;gb|MBU2937757.1| formate dehydrogenase subunit alpha [Pacificibacter marinus]	WP_215992731	0
+6tg9_A	ormate dehydrogenase subunit alpha [Loktanella sp. IMCC34160] &gt;gb|RYG92334.1| formate dehydrogenase subunit alpha [Loktanella sp. IMCC34160]	WP_129681440	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter aestuarii] &gt;gb|THD82859.1| formate dehydrogenase subunit alpha [Gemmobacter aestuarii]	WP_136394886	0
+6tg9_A	ormate dehydrogenase [Roseibium aggregatum]	OLL36618	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pacificibacter maritimus] &gt;gb|RPE71347.1| formate dehydrogenase alpha subunit [Pacificibacter maritimus]	WP_123791573	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritimibacter alkaliphilus] &gt;gb|MBY6088819.1| formate dehydrogenase subunit alpha [Maritimibacter alkaliphilus]	WP_222489088	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [unclassified Labrenzia]	WP_209009370	0
+6tg9_A	ormate dehydrogenase [Labrenzia sp. CP4]	AMN52830	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola onchidii]	WP_136637147	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibaca sp. Y0-43] &gt;gb|MCC1482493.1| formate dehydrogenase subunit alpha [Roseibaca sp. Y0-43]	WP_227428313	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter baekdonensis] &gt;gb|EKE72916.1| formate dehydrogenase subunit alpha [Celeribacter baekdonensis B30]	WP_009571550	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibium aggregatum]	MBN8182214	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola nanhaiensis] &gt;dbj|GGM11541.1| formate dehydrogenase subunit alpha [Pseudooceanicola nanhaiensis]	WP_028288335	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.]	MCA3441998	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [unclassified Pannonibacter]	WP_186393243	0
+6tg9_A	ormate dehydrogenase subunit alpha [Labrenzia sp. 5N]	WP_209014762	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [Mameliella] &gt;gb|MBB6516484.1| formate dehydrogenase major subunit [Mameliella alba] &gt;gb|OWV61832.1| formate dehydrogenase subunit alpha [Mameliella alba]	WP_088714322	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. Har01] &gt;gb|MCB6178077.1| formate dehydrogenase subunit alpha [Rhodobacter sp. Har01]	WP_227251993	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [Stappiaceae]	WP_208984291	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibium aggregatum]	WP_208997903	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mameliella alba] &gt;gb|KHQ54696.1| Formate dehydrogenase subunit alpha [Mameliella alba]	WP_043137030	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides]	PZQ97933	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.]	MCA3446402	0
+6tg9_A	ormate dehydrogenase subunit alpha [Labrenzia sp. R5_0] &gt;gb|MBO9459495.1| formate dehydrogenase subunit alpha [Labrenzia sp. R5_0]	WP_209170130	0
+6tg9_A	ormate dehydrogenase subunit alpha [Youngimonas vesicularis] &gt;gb|THD76670.1| formate dehydrogenase subunit alpha [Youngimonas vesicularis]	WP_136337614	0
+6tg9_A	Putative formate dehydrogenase [Labrenzia sp. THAF191b] &gt;gb|QFT05420.1| Putative formate dehydrogenase [Labrenzia sp. THAF191a] &gt;gb|QFT16964.1| Putative formate dehydrogenase [Labrenzia sp. THAF187b]	QFS99106	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mameliella alba] &gt;gb|MBB4029554.1| formate dehydrogenase major subunit [Mameliella alba] &gt;gb|MBY6117720.1| formate dehydrogenase subunit alpha [Mameliella alba] &gt;gb|OWV44491.1| formate dehydrogenase subunit alpha [Mameliella alba] &gt;gb|OWV65098.1| formate dehydrogenase subunit alpha [Mameliella alba]	WP_088669375	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter neptunius] &gt;emb|SFJ70442.1| formate dehydrogenase alpha subunit [Celeribacter neptunius]	WP_090061252	0
+6tg9_A	ormate dehydrogenase subunit alpha [Alphaproteobacteria bacterium] &gt;gb|MBU1571843.1| formate dehydrogenase subunit alpha [Alphaproteobacteria bacterium] &gt;gb|MBU2079920.1| formate dehydrogenase subunit alpha [Alphaproteobacteria bacterium] &gt;gb|MBU2162694.1| formate dehydrogenase subunit alpha [Alphaproteobacteria bacterium] &gt;gb|MBU2244109.1| formate dehydrogenase subunit alpha [Alphaproteobacteria bacterium]	MBU1278251	0
+6tg9_A	ormate dehydrogenase subunit alpha [Labrenzia sp. CP4]	WP_208993567	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola nitratireducens] &gt;gb|MBY6158059.1| formate dehydrogenase subunit alpha [Pseudooceanicola nitratireducens]	WP_222267243	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibium aggregatum]	WP_209017966	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibium aggregatum]	WP_208992488	0
+6tg9_A	ormate dehydrogenase subunit alpha [Phaeobacter sp. HF9A] &gt;gb|NIZ15134.1| formate dehydrogenase subunit alpha [Phaeobacter sp. HF9A]	WP_167645789	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia sp. P2PMeth1]	WP_186398243	0
+6tg9_A	ormate dehydrogenase subunit alpha [bacterium]	MBI1170236	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mameliella alba]	WP_167644830	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia sp. TSB10GB4]	WP_186396684	0
+6tg9_A	ormate dehydrogenase subunit alpha [Citreicella sp. C3M06] &gt;gb|MBU2961871.1| formate dehydrogenase subunit alpha [Citreicella sp. C3M06]	WP_216004374	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium 59_46_T64]	OUS22906	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mameliella alba] &gt;dbj|BBU54304.1| formate dehydrogenase subunit alpha [Mameliella alba]	WP_172428945	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [unclassified Labrenzia]	WP_209010067	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter baekdonensis] &gt;emb|SDE87333.1| formate dehydrogenase alpha subunit [Celeribacter baekdonensis]	WP_074640789	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. SW2] &gt;gb|EEW24636.1| formate dehydrogenase, alpha subunit [Rhodobacter sp. SW2]	WP_008031368	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter johrii] &gt;gb|ODM41682.1| formate dehydrogenase subunit alpha [Cereibacter johrii] &gt;gb|PTM79558.1| formate dehydrogenase alpha subunit [Cereibacter johrii]	WP_069333281	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. F34-6] &gt;gb|OWY11884.1| formate dehydrogenase subunit alpha [Thioclava sp. F34-6]	WP_088736018	0
+6tg9_A	ormate dehydrogenase subunit alpha [Fuscovulum blasticum] &gt;gb|AWD22277.1| formate dehydrogenase subunit alpha [Fuscovulum blasticum]	WP_108643922	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|RDS93749.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides f. sp. denitrificans]	WP_115475746	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBE1290382	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia indica] &gt;emb|SOC06858.1| formate dehydrogenase alpha subunit [Stappia indica]	WP_097174896	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mameliella alba] &gt;gb|OWV48749.1| formate dehydrogenase subunit alpha [Mameliella alba] &gt;gb|PTR39316.1| formate dehydrogenase alpha subunit [Mameliella alba] &gt;dbj|GGF64965.1| formate dehydrogenase subunit alpha [Mameliella alba] &gt;emb|SDD30572.1| formate dehydrogenase major subunit [Mameliella alba]	WP_074622171	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia indica] &gt;gb|MCC4245211.1| formate dehydrogenase subunit alpha [Stappia indica]	WP_228187723	0
+6tg9_A	ormate dehydrogenase subunit alpha [Ruegeria sp. PBVC088]	ODM46444	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava nitratireducens] &gt;gb|AQS47090.1| formate dehydrogenase subunit alpha [Thioclava nitratireducens]	WP_075777251	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola nitratireducens] &gt;gb|MBY6165329.1| formate dehydrogenase subunit alpha [Pseudooceanicola nitratireducens]	WP_222321844	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. F42-5] &gt;gb|OWY08759.1| formate dehydrogenase subunit alpha [Thioclava sp. F42-5]	WP_088723020	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|AZB62501.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|AZB69550.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides]	WP_124255804	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. NG1] &gt;gb|PWE49296.1| formate dehydrogenase subunit alpha [Thioclava sp. NG1]	WP_109172557	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia sp. TSB10P1A]	WP_186388215	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia indica] &gt;gb|QGZ34666.1| formate dehydrogenase subunit alpha [Stappia indica]	WP_158193631	0
+6tg9_A	ormate dehydrogenase [Rhodobacteraceae bacterium PD-2] &gt;gb|QRF69011.1| formate dehydrogenase subunit alpha [Rhodobacteraceae bacterium C31]	ETA50047	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mameliella sp. CS4] &gt;gb|MBW4983278.1| formate dehydrogenase subunit alpha [Mameliella sp. CS4]	WP_219514428	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia sp. 28M-7] &gt;gb|MBC2860921.1| formate dehydrogenase subunit alpha [Stappia sp. 28M-7]	WP_185925985	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [unclassified Ponticoccus (in: Proteobacteria)] &gt;gb|MBM1221494.1| formate dehydrogenase subunit alpha [Ponticoccus sp. SC6-9] &gt;gb|MBM1226535.1| formate dehydrogenase subunit alpha [Ponticoccus sp. SC6-15] &gt;gb|MBM1230486.1| formate dehydrogenase subunit alpha [Ponticoccus sp. SC6-38] &gt;gb|MBM1235009.1| formate dehydrogenase subunit alpha [Ponticoccus sp. SC6-45] &gt;gb|MBM1239507.1| formate dehydrogenase subunit alpha [Ponticoccus sp. SC6-49]	WP_127656077	0
+6tg9_A	ormate dehydrogenase subunit alpha [Hyphomicrobiales bacterium]	RTL69203	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|QCP86842.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides]	WP_137458408	0
+6tg9_A	ormate dehydrogenase subunit alpha [Antarcticimicrobium sediminis] &gt;gb|TDE36290.1| formate dehydrogenase subunit alpha [Antarcticimicrobium sediminis]	WP_132830402	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|AZB54090.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|AZB58350.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides]	WP_124253528	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium FZCC0188]	MBF9028519	0
+6tg9_A	ormate dehydrogenase subunit alpha [Marimonas lutisalis]	WP_137699778	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter sp. XCT-34] &gt;gb|NBN63878.1| formate dehydrogenase subunit alpha [Microvirga tunisiensis]	WP_161675833	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia indica]	WP_067219355	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium HKCCA1065]	MBF9055326	0
+6tg9_A	ormate dehydrogenase subunit alpha [Xinfangfangia sp. Clo-40]	WP_225029737	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter carbonis]	WP_106752373	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. F36-7] &gt;gb|OOY07186.1| formate dehydrogenase subunit alpha [Thioclava sp. F36-7]	WP_078572391	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium HKCCD6035]	MBF9024415	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibium aggregatum] &gt;gb|MBD1549443.1| formate dehydrogenase subunit alpha [Roseibium aggregatum]	WP_190294134	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|ABA80264.1| formate dehydrogenase alpha subunit [Cereibacter sphaeroides 2.4.1] &gt;gb|ANS35220.1| formate dehydrogenase [Cereibacter sphaeroides] &gt;gb|ATN64273.1| formate dehydrogenase [Cereibacter sphaeroides] &gt;gb|AXC62455.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides 2.4.1] &gt;gb|MVX46621.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides]	WP_011338701	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium HKCCA1058]	MBF9020189	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. F1Mire-8] &gt;gb|OWY00045.1| formate dehydrogenase subunit alpha [Thioclava sp. F1Mire-8]	WP_088720606	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBA85956	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola nitratireducens] &gt;emb|SEJ48929.1| formate dehydrogenase major subunit [Pseudooceanicola nitratireducens] &gt;emb|SFC55728.1| formate dehydrogenase alpha subunit [Pseudooceanicola nitratireducens]	WP_093452461	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thalassobius mangrovi] &gt;gb|MYM56245.1| formate dehydrogenase subunit alpha [Thalassobius mangrovi]	WP_160974098	0
+6tg9_A	ormate dehydrogenase subunit alpha [Litorivita pollutaquae] &gt;gb|PYC47262.1| formate dehydrogenase subunit alpha [Litorivita pollutaquae]	WP_110796452	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|EGJ22582.1| formate dehydrogenase, alpha subunit [Cereibacter sphaeroides WS8N]	WP_002721451	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter lanyuensis] &gt;dbj|GGW29388.1| formate dehydrogenase subunit alpha [Gemmobacter lanyuensis]	WP_189633466	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.]	MCA3449982	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius mucosus] &gt;gb|KGM88810.1| formate dehydrogenase alpha subunit [Roseovarius mucosus DSM 17069]	WP_037270942	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter johrii] &gt;gb|RAZ86029.1| formate dehydrogenase subunit alpha [Cereibacter johrii]	WP_112329084	0
+6tg9_A	ormate dehydrogenase subunit alpha [Fuscovulum blasticum] &gt;gb|PTE16331.1| formate dehydrogenase subunit alpha [Fuscovulum blasticum DSM 2131]	WP_107671496	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3495083.1| formate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3501605.1| formate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3502225.1| formate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3517057.1| formate dehydrogenase subunit alpha [Rhodobacter sp.]	MCA3488800	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;emb|SNS63281.1| formate dehydrogenase alpha subunit [[Luteovulum] sphaeroides subsp. megalophilum]	WP_089256815	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola flagellatus] &gt;dbj|GGE19014.1| formate dehydrogenase subunit alpha [Pseudooceanicola flagellatus]	WP_188476028	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium FZCC0069]	MBF9022565	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pannonibacter sp. XCT-53] &gt;gb|NBN77517.1| formate dehydrogenase subunit alpha [Microvirga tunisiensis]	WP_161707961	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. JM3] &gt;gb|OWY13396.1| formate dehydrogenase subunit alpha [Thioclava sp. JM3]	WP_088725962	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudodonghicola xiamenensis] &gt;dbj|GHG80959.1| formate dehydrogenase subunit alpha [Pseudodonghicola xiamenensis]	WP_028092203	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3520616.1| formate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3524149.1| formate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3526188.1| formate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3530291.1| formate dehydrogenase subunit alpha [Rhodobacter sp.]	MCA3511792	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia indica]	WP_067336168	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritimibacter sp. DP1N21-5] &gt;gb|MBV7410471.1| formate dehydrogenase subunit alpha [Maritimibacter sp. DP1N21-5]	WP_218464505	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola pacificus] &gt;gb|MWB78544.1| formate dehydrogenase subunit alpha [Pseudooceanicola pacificus]	WP_160382760	0
+6tg9_A	ormate dehydrogenase subunit alpha [Phyllobacteriaceae bacterium] &gt;gb|MBA91735.1| formate dehydrogenase subunit alpha [Phyllobacteriaceae bacterium]	MAW87323	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. IC9] &gt;gb|OWX99009.1| formate dehydrogenase subunit alpha [Thioclava sp. IC9]	WP_088728139	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides]	WP_101327409	0
+6tg9_A	ormate dehydrogenase subunit alpha [Brucellaceae bacterium]	MCC0026154	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.]	MCA3506483	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|RHZ94917.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides]	WP_119000163	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter lutimaris] &gt;gb|RID91718.1| formate dehydrogenase subunit alpha [Gemmobacter lutimaris]	WP_119134780	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium ASV31]	MBV0914006	0
+6tg9_A	ormate dehydrogenase subunit alpha [Ponticoccus gilvus] &gt;gb|MBN7784167.1| formate dehydrogenase subunit alpha [Ponticoccus gilvus]	WP_206563522	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.]	MCA3440145	0
+6tg9_A	ormate dehydrogenase, alpha subunit [Rhodobacteraceae bacterium HLUCCO07]	KPP85333	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter persicus] &gt;gb|PTQ75845.1| formate dehydrogenase alpha subunit [Celeribacter persicus]	WP_107814840	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium LSUCC1028]	MBF9053418	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [Gemmobacter] &gt;dbj|GHC25744.1| formate dehydrogenase subunit alpha [Gemmobacter nanjingensis]	WP_054303846	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium LSUCC0374]	MBF9038783	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter sp. con4] &gt;gb|MBT9244721.1| formate dehydrogenase subunit alpha [Gemmobacter sp. con4] &gt;gb|QWK91573.1| formate dehydrogenase subunit alpha [Gemmobacter sp. con5]	WP_215503764	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritimibacter lacisalsi] &gt;dbj|GGD23217.1| formate dehydrogenase subunit alpha [Maritimibacter lacisalsi]	WP_188525992	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter caeni] &gt;gb|PTX45774.1| formate dehydrogenase alpha subunit [Gemmobacter caeni] &gt;gb|TWI94079.1| formate dehydrogenase alpha subunit [Gemmobacter caeni]	WP_108130459	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter changlensis] &gt;gb|TKA97219.1| formate dehydrogenase subunit alpha [Cereibacter changlensis]	WP_136791950	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|ACM02336.1| Formate dehydrogenase, alpha subunit [Cereibacter sphaeroides KD131]	WP_015921442	0
+6tg9_A	ormate dehydrogenase subunit alpha [Histidinibacterium sp. 176SS1-4] &gt;gb|KAA9006088.1| formate dehydrogenase subunit alpha [Histidinibacterium sp. 176SS1-4]	WP_150446340	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|RHZ98440.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides]	WP_119003977	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. AKP1] &gt;gb|EKX58150.1| NAD-dependent formate dehydrogenase alpha subunit [Rhodobacter sp. AKP1]	WP_009563129	0
+6tg9_A	ormate dehydrogenase subunit alpha [Sagittula marina] &gt;gb|MBB3988482.1| formate dehydrogenase major subunit [Sagittula marina]	WP_183970353	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudopuniceibacterium antarcticum] &gt;gb|QOL80928.1| formate dehydrogenase subunit alpha [Pseudopuniceibacterium antarcticum]	WP_193083244	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	NBR34257	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudorhodobacter sp. PARRP1]	OYU38377	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium 65-51]	OJY36318	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium] &gt;gb|QEW23286.1| Putative formate dehydrogenase [Rhodobacteraceae bacterium]	MAC82158	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter sp. ASW11-22] &gt;gb|MCA0043973.1| formate dehydrogenase subunit alpha [Celeribacter sp. ASW11-22]	WP_224503161	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|MWP36489.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides]	WP_160475670	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	EL41807	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter changlensis] &gt;gb|PTE23573.1| formate dehydrogenase subunit alpha [Cereibacter changlensis JA139] &gt;gb|PZX58508.1| formate dehydrogenase alpha subunit [Cereibacter changlensis]	WP_107662165	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium LSUCC0387]	MBF9040276	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava marina] &gt;gb|OOY12683.1| formate dehydrogenase subunit alpha [Thioclava marina] &gt;gb|TNF10982.1| formate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	WP_078573261	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium]	NCO87218	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium TG-679]	PWR01794	0
+6tg9_A	ormate dehydrogenase, alpha subunit [Cereibacter sp.]	MBZ4690059	0
+6tg9_A	hypothetical protein ACD_54C00629G0002 [uncultured bacterium] &gt;gb|KAF0175544.1| formate dehydrogenase alpha subunit [Rhodobacteraceae bacterium]	EKD60658	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter aquatilis] &gt;emb|SEN99856.1| formate dehydrogenase alpha subunit [Gemmobacter aquatilis]	WP_091303072	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium GWF1_65_7]	OHC48059	0
+6tg9_A	ormate dehydrogenase subunit alpha [Antarcticimicrobium luteum] &gt;gb|TDK41346.1| formate dehydrogenase subunit alpha [Antarcticimicrobium luteum]	WP_133361914	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava marina]	MBC7144957	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter sp. HYN0069] &gt;gb|AWB47151.1| formate dehydrogenase subunit alpha [Gemmobacter sp. HYN0069]	WP_108433980	0
+6tg9_A	NAD-dependent formate dehydrogenase alpha subunit FdhF [Rhodobacteraceae bacterium HLUCCA08]	KPP91447	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thalassobius gelatinovorus] &gt;gb|QIZ81671.1| formate dehydrogenase subunit alpha [Thalassobius gelatinovorus] &gt;emb|CUH68187.1| Putative formate dehydrogenase [Thalassobius gelatinovorus] &gt;emb|SEQ30819.1| formate dehydrogenase alpha subunit [Thalassobius gelatinovorus]	WP_058264109	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. CACIA14H1]	ESW61511	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibium aestuarii]	WP_208998807	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp. YIM 78059]	WP_136644799	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp.]	MBL9073669	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3456167.1| formate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3462141.1| formate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3465795.1| formate dehydrogenase subunit alpha [Rhodobacter sp.] &gt;gb|MCA3468030.1| formate dehydrogenase subunit alpha [Rhodobacter sp.]	MCA3452907	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudopuniceibacterium sediminis] &gt;gb|KAA2313870.1| formate dehydrogenase subunit alpha [Puniceibacterium sp. HSS470] &gt;gb|RII38688.1| formate dehydrogenase subunit alpha [Pseudopuniceibacterium sediminis]	WP_119399033	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp. L04-15] &gt;gb|OOY26551.1| formate dehydrogenase subunit alpha [Thioclava sp. L04-15] &gt;gb|TNE92186.1| formate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	WP_078530675	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger thiooxidans]	WP_226562427	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.]	MCA3438551	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter sp.]	BD89771	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola piscis] &gt;gb|AZL59045.1| formate dehydrogenase subunit alpha [Tabrizicola piscis]	WP_125325242	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium W635]	RFU11502	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava atlantica] &gt;gb|KFE36232.1| formate dehydrogenase subunit alpha [Thioclava atlantica]	WP_038143656	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium] &gt;gb|MBR9819577.1| formate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBR9762711	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius pacificus] &gt;dbj|GGO60336.1| formate dehydrogenase subunit alpha [Roseovarius pacificus] &gt;emb|SHM18419.1| formate dehydrogenase alpha subunit [Roseovarius pacificus]	WP_073035893	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola sp. E2-1]	WP_163850729	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. YIM 73028]	WP_135447921	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter straminiformis] &gt;gb|MBC2835962.1| formate dehydrogenase subunit alpha [Gemmobacter straminiformis]	WP_185797592	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. HSP-20] &gt;gb|MBU9698272.1| formate dehydrogenase subunit alpha [Rhodobacteraceae bacterium HSP-20] &gt;gb|MBV4389499.1| formate dehydrogenase subunit alpha [Rhodobacter sp. HSP-20]	WP_161762382	0
+6tg9_A	ormate dehydrogenase subunit alpha [Wenxinia marina] &gt;gb|KIQ68854.1| formate dehydrogenase alpha subunit [Wenxinia marina DSM 24838] &gt;dbj|GGL64712.1| formate dehydrogenase subunit alpha [Wenxinia marina]	WP_018301486	0
+6tg9_A	ormate dehydrogenase [Roseovarius sp. BRH_c41] &gt;gb|KJS44405.1| formate dehydrogenase [Roseovarius sp. BRH_c41]	KJS41031	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudophaeobacter arcticus]	WP_027241900	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	NVK45586	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBR9841098	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger thiooxidans] &gt;gb|MCA0851018.1| formate dehydrogenase subunit alpha [Salipiger thiooxidans]	WP_224954627	0
+6tg9_A	ormate dehydrogenase subunit alpha [Flavimaricola marinus] &gt;emb|SMY06653.1| Putative formate dehydrogenase [Flavimaricola marinus]	WP_093990805	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sediminicola]	WP_145106505	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. NTK016B] &gt;gb|MBN8292953.1| formate dehydrogenase subunit alpha [Rhodobacter sp. NTK016B]	WP_207014251	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thioclava sp.]	MBD3802531	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter baekdonensis] &gt;gb|AVW90509.1| formate dehydrogenase subunit alpha [Celeribacter baekdonensis]	WP_107718616	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium RIFCSPHIGHO2_12_FULL_62_75] &gt;gb|OHC59694.1| formate dehydrogenase subunit alpha [Rhodobacterales bacterium RIFCSPHIGHO2_02_FULL_62_130]	OHC57692	0
+6tg9_A	ormate dehydrogenase subunit alpha [Frigidibacter albus] &gt;gb|MZQ90270.1| formate dehydrogenase subunit alpha [Frigidibacter albus] &gt;gb|NBE32232.1| formate dehydrogenase subunit alpha [Frigidibacter albus] &gt;dbj|GGH58471.1| formate dehydrogenase subunit alpha [Frigidibacter albus]	WP_161347663	0
+6tg9_A	ormate dehydrogenase subunit alpha [Defluviimonas sp. XJ4]	WP_126976789	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pacificibacter marinus] &gt;gb|MBU2866103.1| formate dehydrogenase subunit alpha [Pacificibacter marinus]	WP_215942641	0
+6tg9_A	ormate dehydrogenase subunit alpha [Allosediminivita pacifica] &gt;gb|PTX52054.1| formate dehydrogenase alpha subunit [Allosediminivita pacifica] &gt;dbj|GGA97565.1| formate dehydrogenase subunit alpha [Allosediminivita pacifica]	WP_107974526	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter ethanolicus]	WP_066706074	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius sp. A-2] &gt;dbj|GAW33843.1| putative formate dehydrogenase [Roseovarius sp. A-2]	WP_080455776	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [unclassified Roseovarius] &gt;emb|VVT27985.1| NAD-dependent formate dehydrogenase, alpha subunit [Roseovarius sp. EC-SD190] &gt;emb|VVT28525.1| NAD-dependent formate dehydrogenase, alpha subunit [Roseovarius sp. EC-HK134]	WP_151979194	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudorhodobacter sp. MZDSW-24AT] &gt;gb|PJF09245.1| formate dehydrogenase subunit alpha [Pseudorhodobacter sp. MZDSW-24AT]	WP_100197337	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola antarcticus] &gt;gb|PJE29683.1| formate dehydrogenase subunit alpha [Pseudooceanicola antarcticus] &gt;emb|SNY54851.1| formate dehydrogenase alpha subunit [Pseudooceanicola antarcticus]	WP_097146623	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter sp.]	MBL8563267	0
+6tg9_A	ormate dehydrogenase subunit alpha [Martelella sp.]	MAU20347	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. HX-7-19] &gt;gb|NGQ89503.1| formate dehydrogenase subunit alpha [Rhodobacter sp. HX-7-19]	WP_165046597	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MCB1353033	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter azotoformans]	WP_101340229	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp. SY72] &gt;gb|NTT84588.1| formate dehydrogenase subunit alpha [Tabrizicola sp. SY72]	WP_174209445	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter sp. HF31] &gt;gb|NIY77878.1| formate dehydrogenase subunit alpha [Celeribacter sp. HF31]	WP_167599676	0
+6tg9_A	ormate dehydrogenase subunit alpha [Octadecabacter sp. SW4] &gt;gb|QEE35280.1| formate dehydrogenase subunit alpha [Octadecabacter sp. SW4]	WP_148055089	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter caeruleus]	WP_149141939	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MCC5993471	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger abyssi] &gt;gb|MBN9888554.1| formate dehydrogenase subunit alpha [Salipiger abyssi]	WP_207019183	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pararhodobacter marinus] &gt;gb|PWE27790.1| formate dehydrogenase subunit alpha [Pararhodobacter marinus]	WP_109534205	0
+6tg9_A	ormate dehydrogenase subunit alpha [Actibacterium sp.]	MBC57304	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [Roseovarius] &gt;gb|ARE85393.1| putative formate dehydrogenase [Roseovarius mucosus] &gt;gb|AWZ21487.1| NAD-dependent formate dehydrogenase alpha subunit [Roseovarius sp. AK1035] &gt;gb|EDM30977.1| NAD-dependent formate dehydrogenase, alpha subunit [Roseovarius sp. TM1035] &gt;gb|MBW4974957.1| formate dehydrogenase subunit alpha [Roseovarius mucosus]	WP_008282176	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thalassobium sp.]	PHQ84181	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter sp.]	BU16130	0
+6tg9_A	ormate dehydrogenase subunit alpha [Acuticoccus sp. 2012] &gt;gb|MBJ3776967.1| formate dehydrogenase subunit alpha [Acuticoccus sp. 2012]	WP_198882857	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger sp.]	MAU44463	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pararhodobacter sp.]	MCC5987848	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBS3978419	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBL9056336	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thalassobius litoralis] &gt;emb|SMO36115.1| formate dehydrogenase alpha subunit [Thalassobius litoralis]	WP_142491571	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger thiooxidans] &gt;gb|MBN8190183.1| formate dehydrogenase subunit alpha [Salipiger thiooxidans]	WP_206896225	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter flagellatus]	WP_149587288	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. M37P] &gt;gb|NHB75732.1| formate dehydrogenase subunit alpha [Rhodobacter sp. M37P]	WP_166401765	0
+6tg9_A	ormate dehydrogenase alpha subunit [Salipiger abyssi]	APZ53332	0
+6tg9_A	ormate dehydrogenase subunit alpha [Martelella lutilitoris] &gt;gb|TNB46370.1| formate dehydrogenase subunit alpha [Martelella lutilitoris]	WP_138749818	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp. WMC-M-20] &gt;gb|TGD66374.1| formate dehydrogenase subunit alpha [Tabrizicola sp. WMC-M-20]	WP_135511000	0
+6tg9_A	ormate dehydrogenase subunit alpha [Defluviimonas denitrificans] &gt;gb|PQV56229.1| formate dehydrogenase alpha subunit [Defluviimonas denitrificans]	WP_105515090	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp.]	MCC6519944	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger sp. HF18] &gt;gb|NIY97131.1| formate dehydrogenase subunit alpha [Salipiger sp. HF18]	WP_167452728	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter tilapiae] &gt;dbj|GHC56204.1| formate dehydrogenase subunit alpha [Gemmobacter tilapiae]	WP_189411453	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger thiooxidans] &gt;emb|SDF53222.1| formate dehydrogenase alpha subunit [Salipiger thiooxidans]	WP_089963879	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBI1220651	0
+6tg9_A	ormate dehydrogenase subunit alpha [Octadecabacter sp. B2R22] &gt;gb|MBU2993062.1| formate dehydrogenase subunit alpha [Octadecabacter sp. B2R22]	WP_216036634	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp. DRYC-M-16] &gt;gb|TGD43555.1| formate dehydrogenase subunit alpha [Tabrizicola sp. DRYC-M-16]	WP_135430481	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.]	MCC0076314	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger abyssi]	WP_076701233	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp. TH137] &gt;gb|PLL14498.1| formate dehydrogenase subunit alpha [Tabrizicola sp. TH137]	WP_101919479	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger pallidus] &gt;dbj|GGG68826.1| formate dehydrogenase subunit alpha [Salipiger pallidus]	WP_188789598	0
+6tg9_A	ormate dehydrogenase, alpha subunit [Citreicella sp. SE45]	EEX15743	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pararhodobacter zhoushanensis]	WP_127105270	0
+6tg9_A	ormate dehydrogenase subunit alpha [Martelella radicis] &gt;gb|MBB4124158.1| formate dehydrogenase major subunit [Martelella radicis]	WP_183490547	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	NVK61633	0
+6tg9_A	ormate dehydrogenase subunit alpha [Fertoeibacter niger] &gt;gb|NUB44952.1| formate dehydrogenase subunit alpha [Fertoeibacter niger]	WP_152825386	0
+6tg9_A	ormate dehydrogenase subunit alpha, partial [Rhodobacteraceae bacterium GWE1_64_9]	OHC43449	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBD1203862	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola atlanticus] &gt;gb|KGM49201.1| formate dehydrogenase [Pseudooceanicola atlanticus]	WP_043748350	0
+6tg9_A	ormate dehydrogenase subunit alpha [Phycocomes zhengii]	WP_111404141	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rubellimicrobium sp. CFH 75288] &gt;gb|NAZ38139.1| formate dehydrogenase subunit alpha [Rubellimicrobium sp. CFH 75288]	WP_166583457	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius sp.] &gt;gb|MBD12655.1| formate dehydrogenase subunit alpha [Roseovarius sp.]	MAN99254	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pacificibacter marinus] &gt;emb|SEK92885.1| formate dehydrogenase alpha subunit [Pacificibacter marinus] &gt;emb|SLN30715.1| Putative formate dehydrogenase [Pacificibacter marinus]	WP_085848065	0
+6tg9_A	ormate dehydrogenase subunit alpha [Proteobacteria bacterium]	MBS0242876	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rubellimicrobium rubrum] &gt;gb|TNC52427.1| formate dehydrogenase subunit alpha [Rubellimicrobium rubrum]	WP_139075111	0
+6tg9_A	ormate dehydrogenase subunit alpha [Lutimaribacter saemankumensis] &gt;emb|SDI27254.1| formate dehydrogenase major subunit [Lutimaribacter saemankumensis]	WP_090027166	0
+6tg9_A	ormate dehydrogenase subunit alpha [Leisingera sp. ANG59] &gt;gb|NSY41105.1| formate dehydrogenase subunit alpha [Leisingera sp. ANG59]	WP_174149333	0
+6tg9_A	NAD-dependent formate dehydrogenase alpha subunit FdhF [Rhodobacteraceae bacterium HLUCCO18]	KPQ15990	0
+6tg9_A	ormate dehydrogenase alpha subunit [Rhodobacteraceae bacterium]	KAF0116853	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter nectariphilus]	WP_028029293	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseicitreum antarcticum] &gt;emb|SDX33623.1| formate dehydrogenase alpha subunit [Roseicitreum antarcticum]	WP_092890358	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	NJS40652	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mesobaculum littorinae] &gt;gb|RVV97331.1| formate dehydrogenase subunit alpha [Mesobaculum littorinae]	WP_127906927	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius sp.] &gt;gb|MBQ0809886.1| formate dehydrogenase subunit alpha [Roseovarius sp.]	MBQ0748910	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pararhodobacter sp. CCB-MM2]	WP_068303464	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;dbj|BCH57982.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_180573675	0
+6tg9_A	ormate dehydrogenase subunit alpha [Proteobacteria bacterium]	MCA0203891	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp.]	MBY0350620	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. CCP-1] &gt;gb|NBE07123.1| formate dehydrogenase subunit alpha [Rhodobacter sp. CCP-1]	WP_161766062	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cypionkella psychrotolerans]	WP_054005416	0
+6tg9_A	ormate dehydrogenase subunit alpha [Zhengella mangrovi] &gt;gb|PHP67049.1| formate dehydrogenase subunit alpha [Zhengella mangrovi]	WP_099306369	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paracoccus sp. PAMC 22219]	WP_042244454	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [Actibacterium] &gt;gb|ALG90635.1| formate dehydrogenase [Actibacterium sp. EMB200-NS6] &gt;gb|MBB4023186.1| formate dehydrogenase major subunit [Actibacterium naphthalenivorans]	WP_054539203	0
+6tg9_A	ormate dehydrogenase subunit alpha [Histidinibacterium lentulum] &gt;gb|ROT97781.1| formate dehydrogenase subunit alpha [Histidinibacterium lentulum]	WP_123643788	0
+6tg9_A	ormate dehydrogenase major subunit [Rhodobium orientis] &gt;gb|MBK5951073.1| formate dehydrogenase subunit alpha [Rhodobium orientis] &gt;gb|RAI26862.1| formate dehydrogenase subunit alpha [Rhodobium orientis]	MBB4301339	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibaca ekhonensis] &gt;emb|SUZ31806.1| Putative formate dehydrogenase [Roseibaca ekhonensis]	WP_121094265	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBN2759332	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. SYSU G02214]	WP_149124934	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodovulum euryhalinum] &gt;gb|TCO70508.1| formate dehydrogenase alpha subunit [Rhodovulum euryhalinum]	WP_132545174	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp.]	MBL9049027	0
+6tg9_A	ormate dehydrogenase subunit alpha [Fuscibacter oryzae] &gt;gb|MBL4928226.1| formate dehydrogenase subunit alpha [Fuscibacter oryzae]	WP_202659768	0
+6tg9_A	ormate dehydrogenase subunit alpha [Hasllibacter sp. MH4015]	WP_224815152	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUO90688.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUZ52563.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUZ92250.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA41672.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|NSX97495.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_071202948	0
+6tg9_A	ormate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|MCA2012753.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides]	WP_225297934	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter aquaticus] &gt;dbj|GGO32255.1| formate dehydrogenase subunit alpha [Gemmobacter aquaticus]	WP_146286673	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium HKCCE4037]	MBF9041776	0
+6tg9_A	ormate dehydrogenase subunit alpha [Albibacillus kandeliae]	WP_109468554	0
+6tg9_A	ormate dehydrogenase subunit alpha [Leisingera daeponensis] &gt;gb|MBY6055962.1| formate dehydrogenase subunit alpha [Leisingera daeponensis]	WP_222503216	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger bermudensis] &gt;gb|MBY6002781.1| formate dehydrogenase subunit alpha [Salipiger bermudensis]	WP_222602113	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MBF2718002.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA21747.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156538289	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibaca calidilacus] &gt;gb|KPP92259.1| cytoplasmic NAD-dependent formate dehydrogenase alpha subunit FdsA [Roseibaca calidilacus] &gt;emb|CUX79553.1| formate dehydrogenase alpha subunit [Roseibaca calidilacus]	WP_072244339	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pararhodobacter aggregans] &gt;gb|PTX00706.1| formate dehydrogenase alpha subunit [Pararhodobacter aggregans] &gt;gb|PVE46244.1| formate dehydrogenase subunit alpha [Pararhodobacter aggregans]	WP_107753091	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rubellimicrobium roseum] &gt;gb|TNC74851.1| formate dehydrogenase subunit alpha [Rubellimicrobium roseum]	WP_139079845	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUZ61896.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156531807	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudorhodobacter antarcticus] &gt;emb|SEN48576.1| formate dehydrogenase alpha subunit [Pseudorhodobacter antarcticus]	WP_050519719	0
+6tg9_A	ormate dehydrogenase subunit alpha [Solirhodobacter olei]	WP_127901982	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritalea mobilis] &gt;gb|MBY6200616.1| formate dehydrogenase subunit alpha [Maritalea mobilis]	WP_222187946	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. SY28-1]	WP_137109477	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodovulum sp. NI22] &gt;gb|KGB82026.1| formate dehydrogenase [Rhodovulum sp. NI22]	WP_037208028	0
+6tg9_A	ormate dehydrogenase subunit alpha [Oceaniovalibus guishaninsula] &gt;gb|EKE44862.1| NAD-dependent formate dehydrogenase, alpha subunit [Oceaniovalibus guishaninsula JLT2003]	WP_007426050	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger bermudensis] &gt;gb|MCA0964818.1| formate dehydrogenase subunit alpha [Salipiger bermudensis]	WP_224859917	0
+6tg9_A	ormate dehydrogenase subunit alpha [Martelella mediterranea] &gt;gb|AQZ50688.1| Putative formate dehydrogenase [Martelella mediterranea DSM 17316]	WP_018065251	0
+6tg9_A	ormate dehydrogenase subunit alpha [Limimaricola variabilis] &gt;gb|MBB3711648.1| formate dehydrogenase major subunit [Limimaricola variabilis]	WP_183470870	0
+6tg9_A	ormate dehydrogenase subunit alpha [Nioella nitratireducens]	WP_071674691	0
+6tg9_A	ormate dehydrogenase subunit alpha [Limimaricola hongkongensis] &gt;gb|EYD72247.1| NAD-dependent formate dehydrogenase alpha subunit [Limimaricola hongkongensis DSM 17492]	WP_017928187	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobium orientis]	WP_201241010	0
+6tg9_A	ormate dehydrogenase subunit alpha [Ferrimonas balearica] &gt;gb|MBY5972107.1| formate dehydrogenase subunit alpha [Ferrimonas balearica]	WP_222476767	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA72485.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156554883	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter naphthalenivorans]	WP_226548880	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|NSZ44088.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|NTA27836.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|OVE93572.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_087729378	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUO69616.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUO83100.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA37617.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_070152943	0
+6tg9_A	MAG: formate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	QYK42140	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBL4542953	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA58029.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156591996	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola aquatica]	WP_103257225	0
+6tg9_A	ormate dehydrogenase subunit alpha [Jannaschia sp. CCS1] &gt;gb|ABD55475.1| formate dehydrogenase alpha subunit [Jannaschia sp. CCS1]	WP_011455679	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;dbj|BCH52521.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_180638914	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA50050.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|NTA33049.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156617573	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp. XJSP]	WP_103334548	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola lipolyticus] &gt;gb|PJE34203.1| formate dehydrogenase subunit alpha [Pseudooceanicola lipolyticus]	WP_100164772	0
+6tg9_A	ormate dehydrogenase subunit alpha [Leisingera daeponensis] &gt;gb|MBY6139581.1| formate dehydrogenase subunit alpha [Leisingera daeponensis]	WP_222508108	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|KAA3516892.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|KAA3529657.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUZ97478.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA28060.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|NOJ36143.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_060718657	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritimibacter sp. DP4N28-5] &gt;gb|MBV7378679.1| formate dehydrogenase subunit alpha [Maritimibacter sp. DP4N28-5]	WP_218391866	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger bermudensis] &gt;gb|EAU45285.1| NAD-dependent formate dehydrogenase, alpha subunit [Salipiger bermudensis HTCC2601]	WP_007796970	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger bermudensis] &gt;gb|MCA1288183.1| formate dehydrogenase subunit alpha [Salipiger bermudensis]	WP_224888461	0
+6tg9_A	ormate dehydrogenase subunit alpha [Candidatus Saccharibacteria bacterium]	MBC7737454	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUZ72601.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156614330	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger aestuarii] &gt;gb|KAA8606228.1| formate dehydrogenase [Salipiger aestuarii] &gt;gb|KAA8609154.1| formate dehydrogenase [Salipiger aestuarii]	WP_150282219	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|NSZ51048.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_174096835	0
+6tg9_A	ormate dehydrogenase subunit alpha [Limimaricola soesokkakensis] &gt;gb|PSK87632.1| formate dehydrogenase alpha subunit [Limimaricola soesokkakensis] &gt;emb|SLN32056.1| Putative formate dehydrogenase [Limimaricola soesokkakensis]	WP_085895577	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudorhodobacter turbinis] &gt;gb|QCO57481.1| formate dehydrogenase subunit alpha [Pseudorhodobacter turbinis]	WP_137195275	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola marinus] &gt;gb|PJE28523.1| formate dehydrogenase subunit alpha [Pseudooceanicola marinus] &gt;emb|SLN50777.1| Putative formate dehydrogenase [Pseudooceanicola marinus]	WP_085888523	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter serpentinus]	WP_151719548	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA25512.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156632488	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola marinus] &gt;gb|MCA1335211.1| formate dehydrogenase subunit alpha [Pseudooceanicola marinus]	WP_224897114	0
+6tg9_A	ormate dehydrogenase subunit alpha [Leisingera methylohalidivorans] &gt;gb|AHC99555.1| formate dehydrogenase subunit alpha [Leisingera methylohalidivorans DSM 14336]	WP_024088616	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius indicus] &gt;gb|KRS18113.1| formate dehydrogenase [Roseovarius indicus] &gt;gb|QEW27074.1| Putative formate dehydrogenase [Roseovarius indicus] &gt;emb|SFD54613.1| formate dehydrogenase alpha subunit [Roseovarius indicus]	WP_057815137	0
+6tg9_A	ormate dehydrogenase subunit alpha [Lutimaribacter pacificus] &gt;emb|SDO29553.1| formate dehydrogenase major subunit [Lutimaribacter pacificus] &gt;emb|SHK23134.1| formate dehydrogenase alpha subunit [Lutimaribacter pacificus]	WP_149788561	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. ETT8] &gt;gb|NEX47646.1| formate dehydrogenase subunit alpha [Rhodobacter sp. ETT8]	WP_164613576	0
+6tg9_A	ormate dehydrogenase, alpha subunit [Citreicella sp. 357]	EIE52795	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUZ58007.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA67553.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA86887.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156547996	0
+6tg9_A	ormate dehydrogenase subunit alpha [Octadecabacter temperatus] &gt;gb|AKS45772.1| Putative formate dehydrogenase [Octadecabacter temperatus] &gt;emb|SIO00176.1| formate dehydrogenase alpha subunit [Octadecabacter temperatus]	WP_049834132	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA80205.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156541455	0
+6tg9_A	ormate dehydrogenase subunit alpha [Ahrensia sp.]	MAS04364	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [Cereibacter] &gt;gb|AXQ94770.1| formate dehydrogenase subunit alpha [Cereibacter sphaeroides] &gt;gb|MBO4170372.1| formate dehydrogenase subunit alpha [Cereibacter azotoformans] &gt;gb|PTR14069.1| formate dehydrogenase alpha subunit [Cereibacter azotoformans]	WP_108221992	0
+6tg9_A	ormate dehydrogenase subunit alpha [Defluviimonas alba] &gt;gb|AMY68083.1| NAD-dependent formate dehydrogenase, alpha subunit [Defluviimonas alba]	WP_066809930	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium]	PIE11081	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp. DJC] &gt;gb|RGP38931.1| formate dehydrogenase subunit alpha [Tabrizicola sp. DJC]	WP_118149664	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;dbj|BCH64211.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_180606829	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter xinxiangensis]	WP_136685160	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|ACM37963.1| formate dehydrogenase, alpha subunit [Agrobacterium vitis S4] &gt;gb|MUO28973.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUO43339.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUP09943.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA46365.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_015917374	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius halotolerans] &gt;gb|RKT34993.1| formate dehydrogenase alpha subunit [Roseovarius halotolerans] &gt;emb|SLN15538.1| Putative formate dehydrogenase [Roseovarius halotolerans]	WP_085816079	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mangrovicoccus sp. HB161399]	WP_172328760	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter ethanolicus] &gt;gb|ATG49154.1| formate dehydrogenase subunit alpha [Celeribacter ethanolicus]	WP_096806726	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger bermudensis] &gt;gb|MBN9678302.1| formate dehydrogenase subunit alpha [Salipiger bermudensis]	WP_207077329	0
+6tg9_A	ormate dehydrogenase subunit alpha [Octadecabacter antarcticus] &gt;gb|AGI67340.1| formate dehydrogenase Fdh [Octadecabacter antarcticus 307]	WP_015499372	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	NVK33496	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger aestuarii] &gt;gb|KAB2540893.1| formate dehydrogenase [Salipiger aestuarii] &gt;gb|RAK12400.1| formate dehydrogenase major subunit [Salipiger aestuarii]	WP_111550995	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhizobium sp. RU20A] &gt;emb|SIQ91074.1| formate dehydrogenase alpha subunit [Rhizobium sp. RU20A]	WP_149739179	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius sp. 217] &gt;gb|EAQ23125.1| NAD-dependent formate dehydrogenase, alpha subunit [Roseovarius sp. 217]	WP_009819576	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhizobium taibaishanense] &gt;gb|MBB4009228.1| formate dehydrogenase major subunit [Rhizobium taibaishanense] &gt;gb|OLP48498.1| formate dehydrogenase subunit alpha [Rhizobium taibaishanense]	WP_075615810	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mesorhizobium carbonis] &gt;gb|RST84560.1| formate dehydrogenase subunit alpha [Mesorhizobium carbonis]	WP_126701733	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paracoccus alkanivorans] &gt;gb|RMC37834.1| formate dehydrogenase subunit alpha [Paracoccus alkanivorans]	WP_122110918	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|NSZ18073.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|QZO03808.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_174111972	0
+6tg9_A	ormate dehydrogenase subunit alpha [Thalassobius autumnalis] &gt;emb|CUH64366.1| Putative formate dehydrogenase [Thalassobius autumnalis] &gt;emb|CUH74383.1| Putative formate dehydrogenase [Thalassobius autumnalis]	WP_058245500	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium]	TYC51291	0
+6tg9_A	ormate dehydrogenase subunit alpha [Oricola sp. NBU1457]	WP_193175106	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia taiwanensis] &gt;gb|MBA4613404.1| formate dehydrogenase subunit alpha [Stappia taiwanensis] &gt;dbj|GGE82288.1| formate dehydrogenase subunit alpha [Stappia taiwanensis]	WP_181761600	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rubellimicrobium aerolatum] &gt;gb|MBP1806126.1| formate dehydrogenase major subunit [Rubellimicrobium aerolatum]	WP_209840334	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [unclassified Rubellimicrobium]	WP_210528865	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBE0555259	0
+6tg9_A	ormate dehydrogenase subunit alpha [Marinibacterium profundimaris] &gt;gb|OWU71631.1| formate dehydrogenase [Marinibacterium profundimaris]	WP_088651218	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp.]	MCC0081659	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA62818.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_156637915	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter sp. PS-C1] &gt;gb|MBW6418495.1| formate dehydrogenase subunit alpha [Celeribacter sp. PS-C1]	WP_219785547	0
+6tg9_A	ormate dehydrogenase subunit alpha [Marivivens niveibacter] &gt;gb|OUD10228.1| formate dehydrogenase subunit alpha [Marivivens niveibacter]	WP_086449878	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritimibacter sp. 55A14] &gt;gb|PWE34110.1| formate dehydrogenase subunit alpha [Maritimibacter sp. 55A14]	WP_109423424	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	TNE66772	0
+6tg9_A	ormate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUO79548.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUO95929.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUP06675.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MUZ83476.1| formate dehydrogenase subunit alpha [Agrobacterium vitis] &gt;gb|MVA12032.1| formate dehydrogenase subunit alpha [Agrobacterium vitis]	WP_070164330	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter sp. CZR27]	WP_096786782	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paracoccus sp. wg2]	WP_207102026	0
+6tg9_A	ormate dehydrogenase subunit alpha [Oricola sp. JL-62]	WP_223475518	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibacterium sp. KMU-115] &gt;gb|NKX44841.1| formate dehydrogenase subunit alpha [Roseibacterium sp. KMU-115]	WP_168623181	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium N5(2021)]	MBY4892427	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooctadecabacter jejudonensis] &gt;emb|SLN18131.1| Putative formate dehydrogenase [Pseudooctadecabacter jejudonensis]	WP_085863025	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudorhodobacter aquimaris]	WP_050527937	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [unclassified Rhodobacter]	WP_149077802	0
+6tg9_A	ormate dehydrogenase subunit alpha [Marivivens sp.]	NBX08817	0
+6tg9_A	ormate dehydrogenase subunit alpha [Marivivens sp.] &gt;gb|NCW67294.1| formate dehydrogenase subunit alpha [Marivivens sp.] &gt;gb|NDH01640.1| formate dehydrogenase subunit alpha [Marivivens sp.]	NBQ49496	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibacterium elongatum] &gt;gb|AHM05490.1| NAD-dependent formate dehydrogenase alpha subunit [Roseibacterium elongatum DSM 19469]	WP_025313138	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodovulum viride] &gt;gb|RAP41562.1| formate dehydrogenase subunit alpha [Rhodovulum viride]	WP_112315824	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritimibacter sp. 55A14] &gt;gb|PWE32853.1| formate dehydrogenase subunit alpha [Maritimibacter sp. 55A14]	WP_109424613	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseibium litorale] &gt;gb|MBD8891206.1| formate dehydrogenase subunit alpha [Roseibium suaedae]	WP_192147349	0
+6tg9_A	ormate dehydrogenase subunit alpha [Octadecabacter ascidiaceicola] &gt;emb|SMX38192.1| Putative formate dehydrogenase [Octadecabacter ascidiaceicola]	WP_093996109	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola sp. DMG-N-6] &gt;gb|MBL4917951.1| formate dehydrogenase subunit alpha [Tabrizicola sp. DMG-N-6]	WP_202688862	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacterales bacterium HKCCSP123]	MBF9060225	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius sp.]	MBE0453576	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paracoccus aerius] &gt;gb|MBL3672483.1| formate dehydrogenase subunit alpha [Paracoccus aerius] &gt;dbj|GHG09888.1| formate dehydrogenase subunit alpha [Paracoccus aerius]	WP_191307196	0
+6tg9_A	ormate dehydrogenase subunit alpha [Roseovarius indicus] &gt;gb|OAO10468.1| formate dehydrogenase subunit alpha [Roseovarius indicus]	WP_064257918	0
+6tg9_A	ormate dehydrogenase subunit alpha [Sedimentitalea nanhaiensis] &gt;emb|SFU18813.1| formate dehydrogenase alpha subunit [Sedimentitalea nanhaiensis]	WP_027260261	0
+6tg9_A	ormate dehydrogenase subunit alpha [Poseidonocella sp. HB161398]	WP_138466401	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paracoccus marcusii] &gt;gb|QXI64105.1| Putative formate dehydrogenase [Paracoccus marcusii]	WP_217844476	0
+6tg9_A	ormate dehydrogenase subunit alpha [Celeribacter marinus] &gt;gb|ALI56693.1| NAD-dependent formate dehydrogenase alpha subunit [Celeribacter marinus] &gt;emb|SFK63173.1| formate dehydrogenase alpha subunit [Celeribacter marinus]	WP_062219854	0
+6tg9_A	ormate dehydrogenase subunit alpha [Notoacmeibacter ruber]	RLQ89204	0
+6tg9_A	ormate dehydrogenase subunit alpha [Limimaricola cinnabarinus] &gt;gb|PHP27282.1| formate dehydrogenase subunit alpha [Limimaricola cinnabarinus]	WP_099277706	0
+6tg9_A	ormate dehydrogenase subunit alpha [Tabrizicola oligotrophica] &gt;gb|NEY90504.1| formate dehydrogenase subunit alpha [Tabrizicola oligotrophica]	WP_164625026	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [Rhodobacterales] &gt;gb|APO85983.1| formate dehydrogenase subunit alpha [Marivivens sp. JLT3646] &gt;gb|OBR36928.1| formate dehydrogenase subunit alpha [Donghicola sp. JL3646]	WP_067550107	0
+6tg9_A	ormate dehydrogenase subunit alpha [Marivivens sp.]	NVJ94086	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter tardus] &gt;gb|NBZ89062.1| formate dehydrogenase subunit alpha [Rhodobacter tardus]	WP_168775865	0
+6tg9_A	ormate dehydrogenase subunit alpha [Ahrensia sp.]	MAZ17713	0
+6tg9_A	ormate dehydrogenase subunit alpha [Salipiger marinus] &gt;emb|SDJ41219.1| formate dehydrogenase alpha subunit [Salipiger marinus]	WP_089851626	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paracoccus homiensis] &gt;emb|SET91776.1| formate dehydrogenase alpha subunit [Paracoccus homiensis]	WP_090736966	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [Rhodovulum] &gt;gb|MBL3571482.1| formate dehydrogenase subunit alpha [Rhodovulum visakhapatnamense] &gt;gb|MBL3579414.1| formate dehydrogenase subunit alpha [Rhodovulum visakhapatnamense] &gt;gb|OLS45544.1| formate dehydrogenase subunit alpha [Rhodovulum sulfidophilum]	WP_075786444	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola sp.]	MBB05645	0
+6tg9_A	ormate dehydrogenase subunit alpha [Aestuarium zhoushanense] &gt;gb|AUJ64830.1| formate dehydrogenase subunit alpha [Aestuarium zhoushanense]	WP_105235779	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MCC5959467	0
+6tg9_A	ormate dehydrogenase subunit alpha [Sulfitobacter sp. PIC-76]	WP_114292180	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paracoccus haeundaensis] &gt;gb|TNH41309.1| formate dehydrogenase subunit alpha [Paracoccus haeundaensis]	WP_139597522	0
+6tg9_A	ormate dehydrogenase subunit alpha [Pseudooceanicola sp. HF7] &gt;gb|NIZ08035.1| formate dehydrogenase subunit alpha [Pseudooceanicola sp. HF7]	WP_167686831	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhizobium sp. PP-F2F-G48] &gt;gb|TCM55124.1| formate dehydrogenase alpha subunit [Rhizobium sp. PP-F2F-G48]	WP_132535402	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritimibacter sp.]	MBL6428730	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacter thermarum]	WP_128516280	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodovulum visakhapatnamense] &gt;gb|TDX33771.1| formate dehydrogenase alpha subunit [Rhodovulum visakhapatnamense]	WP_134076854	0
+6tg9_A	ormate dehydrogenase subunit alpha [Stappia indica] &gt;gb|MCA1296715.1| formate dehydrogenase subunit alpha [Stappia indica]	WP_224908999	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paracoccus sp. AK26] &gt;gb|QIR84852.1| formate dehydrogenase subunit alpha [Paracoccus sp. AK26]	WP_167621914	0
+6tg9_A	ormate dehydrogenase subunit alpha [Gemmobacter megaterium] &gt;dbj|GGE21900.1| formate dehydrogenase subunit alpha [Gemmobacter megaterium] &gt;emb|SIT15027.1| formate dehydrogenase alpha subunit [Gemmobacter megaterium]	WP_076532801	0
+6tg9_A	ormate dehydrogenase subunit alpha [Actibacterium pelagium] &gt;dbj|GGE45661.1| formate dehydrogenase subunit alpha [Actibacterium pelagium]	WP_095596005	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodosalinus sediminis] &gt;gb|REC56019.1| formate dehydrogenase subunit alpha [Rhodosalinus sediminis]	WP_115980149	0
+6tg9_A	ormate dehydrogenase subunit alpha [Paracoccus liaowanqingii] &gt;gb|TGN62242.1| formate dehydrogenase subunit alpha [Paracoccus liaowanqingii]	WP_135817057	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodovulum sulfidophilum] &gt;gb|MBL3560570.1| formate dehydrogenase subunit alpha [Rhodovulum sulfidophilum]	WP_202226982	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	TVS04207	0
+6tg9_A	ormate dehydrogenase subunit alpha [Maritimibacter harenae] &gt;gb|MZR14745.1| formate dehydrogenase subunit alpha [Maritimibacter harenae]	WP_161352846	0
+6tg9_A	ormate dehydrogenase subunit alpha [Rhodobacteraceae bacterium]	MBR3369748	0
+6tg9_A	ormate dehydrogenase subunit alpha [Mesorhizobium sp. NIBR3]	WP_187972005	0
+6tg9_A	MULTISPECIES: formate dehydrogenase subunit alpha [Paracoccus] &gt;gb|AZY93789.1| formate dehydrogenase subunit alpha [Paracoccus sp. Arc7-R13] &gt;gb|TNC06243.1| formate dehydrogenase subunit alpha [Paracoccus marcusii]	WP_127898327	0
+6tg9_A	ormate dehydrogenase alpha subunit [Pseudomonas stutzeri]	TYP64660	0
